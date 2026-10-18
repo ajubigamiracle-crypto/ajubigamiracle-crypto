@@ -1,3 +1,25 @@
+
+# Hi, I'm Ajubiga Miracle 👋
+
+Welcome to my GitHub profile!
+
+## 🌱 About Me
+- I'm beginning my journey in software development.
+- I'm learning new skills and building projects.
+- I'm interested in technology and creating useful things.
+
+## 🎯 My Goals
+- Learn to code step by step.
+- Build projects and improve my skills.
+- Contribute to open-source projects.
+- Connect with other developers.
+
+## 📚 Currently Learning
+- Git and GitHub
+- HTML and CSS
+- JavaScript
+
+Thanks for visiting my profile! ✨
 ## Hi there 👋
 
 <!--
